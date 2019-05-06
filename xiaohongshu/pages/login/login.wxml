@@ -1,0 +1,13 @@
+<view class='wrap'>
+  <image mode='widthFix' src='../../img/bg.jpg'></image>
+  <view class='content'>
+    <image mode='widthFix' src='../../img/logo.jpg'></image>
+      <button class='active' bindgetuserinfo='agree' open-type="getUserInfo" type='promise' size='default'>
+        微信登录
+      </button>
+      <button>已有账号直接登录</button>
+  </view>
+
+
+
+</view>
